@@ -66,9 +66,6 @@ public class Robot {
             }
 
         }
-
-
-
     }
 
     private static LinkedHashMap<String, Integer> getLinkedHashMap(String[] inputRobot) {
